@@ -8,7 +8,7 @@ body{
 	background-color: #fff;
 	max-width: 960px;
 	
-	font-size: 13px;
+	font-size: 16px;
 
 	margin-bottom: 10px;
 
@@ -24,7 +24,7 @@ body{
 #header{
 	background-color: #eee;
 	padding-top: 25px;
-	padding-bottom: 15px;
+	padding-bottom: 16px;
 }
 #footer{
 	background-color: #eee;
@@ -73,6 +73,7 @@ a:hover{
 
 #bio_div{
 	padding-top: 80px;
+	font-size: 16px;
 }
 #bio_img{
 	display: block;
@@ -95,7 +96,7 @@ a:hover{
 	float:none; 
 	text-align: justify;
 	line-height: 1.7;
-	font-size: 13px;
+	font-size: 16px;
 }
 h2{
 	
@@ -139,7 +140,7 @@ h2{
 
 .sub_title{
 	font-weight: 600;
-	font-size: 14px;
+	font-size: 16px;
 	padding-top: 10px;
 	/*padding-left: 20px;*/
 }
